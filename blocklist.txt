@@ -1,0 +1,12 @@
+# Version: 1
+# Title: DNSBL LGTV
+# Last modified: 2022-10-08T22:31:54+0200
+# Syntax: Unbound    
+local-zone: "service.lgtvcommon.com." always_null
+local-zone: "cdpbeacon.lgtvcommon.com." always_null
+local-zone: "cdpsvc.lgtvcommon.com." always_null
+local-zone: "homeprv.lgtvcommon.com." always_null
+local-zone: "nudge.lgtvcommon.com." always_null
+local-zone: "rdl.lgtvcommon.com." always_null
+local-zone: "recommend.lgtvcommon.com." always_null
+local-zone: "lgsmartad.com." always_null
