@@ -11,3 +11,5 @@ recommend.lgtvcommon.com
 lgsmartad.com
 # This will break the AccuWeather widget, but it will also block 100% of the annoyances from webOS.
 service.lgtvcommon.com
+lgtvsdp.com
+ngfts.lge.com
