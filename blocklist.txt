@@ -6,10 +6,16 @@ cdpbeacon.lgtvcommon.com
 cdpsvc.lgtvcommon.com
 homeprv.lgtvcommon.com
 nudge.lgtvcommon.com
+EIC.nudge.lgtvcommon.com
 rdl.lgtvcommon.com
+EIC.rdl.lgtvcommon.com
 recommend.lgtvcommon.com
+EIC.recommend.lgtvcommon.com
 lgsmartad.com
 # This will break the AccuWeather widget, but it will also block 100% of the annoyances from webOS.
 service.lgtvcommon.com
-lgtvsdp.com
+EIC.service.lgtvcommon.com
+NL.lgtvsdp.com
 ngfts.lge.com
+discovery.meethue.com
+EIC.service.lgtvcommon.com
