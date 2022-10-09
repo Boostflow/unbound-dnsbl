@@ -1,7 +1,8 @@
 # Version: 1
 # Title: DNSBL LGTV
 # Last modified: 2022-10-08T22:31:54+0200
-# Syntax: DBL    
+# Syntax: DBL
+# LGTV common
 cdpbeacon.lgtvcommon.com
 cdpsvc.lgtvcommon.com
 homeprv.lgtvcommon.com
@@ -11,11 +12,24 @@ rdl.lgtvcommon.com
 EIC.rdl.lgtvcommon.com
 recommend.lgtvcommon.com
 EIC.recommend.lgtvcommon.com
-lgsmartad.com
-# This will break the AccuWeather widget, but it will also block 100% of the annoyances from webOS.
 service.lgtvcommon.com
 EIC.service.lgtvcommon.com
+# LG Smart Ad
+lgsmartad.com
+NL.info.lgsmartad.com
+# LG TV
+lgtvsdp.com
 NL.lgtvsdp.com
 ngfts.lge.com
+# Philips Hue
 discovery.meethue.com
-EIC.service.lgtvcommon.com
+# LGE
+lge.com
+ngfts.lge.com
+snu.lge.com
+lgtvonline.lge.com
+# LGE API
+NL.lgeapi.com
+# LG Smart Platform
+lgsmartplatform.com
+NL.emp.lgsmartplatform.com
