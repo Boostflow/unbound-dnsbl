@@ -1,35 +1,26 @@
-# Version: 1
-# Title: DNSBL LGTV
-# Last modified: 2022-10-08T22:31:54+0200
-# Syntax: DBL
-# LGTV common
-cdpbeacon.lgtvcommon.com
-cdpsvc.lgtvcommon.com
-homeprv.lgtvcommon.com
-nudge.lgtvcommon.com
-EIC.nudge.lgtvcommon.com
-rdl.lgtvcommon.com
-EIC.rdl.lgtvcommon.com
-recommend.lgtvcommon.com
-EIC.recommend.lgtvcommon.com
-service.lgtvcommon.com
-EIC.service.lgtvcommon.com
+# LG TV common
+||cdpbeacon.lgtvcommon.com
+||cdpsvc.lgtvcommon.com
+||homeprv.lgtvcommon.com
+||nudge.lgtvcommon.com^
+||rdl.lgtvcommon.com^
+||recommend.lgtvcommon.com^
+||service.lgtvcommon.com^
 # LG Smart Ad
-lgsmartad.com
-NL.info.lgsmartad.com
+||lgsmartad.com^
 # LG TV
-lgtvsdp.com
-NL.lgtvsdp.com
-ngfts.lge.com
+||lgtvsdp.com^
+||ngfts.lge.com^
 # Philips Hue
 discovery.meethue.com
 # LGE
-lge.com
-ngfts.lge.com
-snu.lge.com
-lgtvonline.lge.com
+||ngfts.lge.com^
+||snu.lge.com^
+# LGE DNS challenge
+# ||lgtvonline.lge.com^
 # LGE API
-NL.lgeapi.com
+||lgeapi.com^
 # LG Smart Platform
-lgsmartplatform.com
-NL.emp.lgsmartplatform.com
+||lgsmartplatform.com^
+# Syncthing STUN
+||stun.syncthing.net^
